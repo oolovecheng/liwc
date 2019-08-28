@@ -8,6 +8,9 @@ import java.sql.SQLException;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * @author vincent
+ */
 public class DAO {
     public DAO() {
         try {
